@@ -1,0 +1,43 @@
+{
+  "name": "wiki-client",
+  "version": "0.0.4",
+  "description": "Plugin CoffeeScript for a Federated Wiki",
+  "keywords": [
+    "wiki",
+    "federated wiki",
+    "wiki client",
+    "wiki plugins"
+  ],
+  "author": {
+      "name": "Ward Cunningham",
+      "email": "ward@c2.com",
+      "url": "http://ward.fed.wiki.org"
+  },
+  "contributors": [
+    {
+      "name": "Nick Niemeir",
+      "email": "nick.niemeir@gmail.com",
+      "url": "http://nrn.io"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-coffee": "~0.7.0",
+    "grunt-contrib-watch": "*"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WardCunningham/plugins"
+  },
+  "bugs": {
+    "url": "https://github.com/WardCunningham/plugins/issues"
+  },
+  "engines": {
+    "node": ">0.8"
+  }
+}
+
