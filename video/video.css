@@ -1,0 +1,7 @@
+
+#output {
+	width: auto;
+	height: 100%;
+	background: black;
+	-webkit-transform: scale(-1, 1);
+}
